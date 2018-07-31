@@ -4,7 +4,7 @@
   "description": "a practice repo for AWS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --inspect server/app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/cpbennett4/awsPractice/issues"
   },
-  "homepage": "https://github.com/cpbennett4/awsPractice#readme"
+  "homepage": "https://github.com/cpbennett4/awsPractice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
