@@ -1,0 +1,20 @@
+{
+  "name": "awsPractice",
+  "version": "1.0.0",
+  "description": "a practice repo for AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpbennett4/awsPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpbennett4/awsPractice/issues"
+  },
+  "homepage": "https://github.com/cpbennett4/awsPractice#readme"
+}
